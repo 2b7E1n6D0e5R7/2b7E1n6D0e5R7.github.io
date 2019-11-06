@@ -79,3 +79,7 @@ exclude:
   - package.json
   - Rakefile
   - tmp
+  
+  webserver_headers:
+  "Access-Control-Allow-Origin": "*"
+  "Server": "CustomServerName"
