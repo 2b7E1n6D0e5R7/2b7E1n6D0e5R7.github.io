@@ -1,5 +1,5 @@
 ---
-title: Github
-permalink: /github/
-redirect_to: https://github.com/brettinternet/minimaless
+title: YouTube
+permalink: /youtube/
+redirect_to: https://youtube.com/paranoids
 ---
