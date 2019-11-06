@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Features & Setup
-permalink: /setup/
+title: XMPP
+permalink: /XMPP/
 ---
 
 # Features
