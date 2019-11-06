@@ -9,17 +9,14 @@ description: >
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://paranoids.info/" # the base hostname & protocol for your site, e.g. http://example.com
 
-website: https://www.brettinternet.com
-telegram_username:  brettinternet
-bitbucket_username: brettinternet
-codepen_username: brettinternet
-linkedin_username: brettinternet
-twitter_username: brettinternet
-facebook_username: brettinternet
-instagram_username: brettinternet
-keybase_username: brettinternet
-paypal_username: brettinternet
-stackoverflow_username: brettinternet # (developer story)
+telegram_username:  paranoidsinfo
+linkedin_username: paranoidsinfo
+twitter_username: paranoidsinfo
+facebook_username: paranoidsinfo
+instagram_username: paranoidsinfo
+paypal_username: paranoidsinfo
+youtube_username: paranoidsinfo
+vk_username: paranoidsinfo
 
 
 collections:
