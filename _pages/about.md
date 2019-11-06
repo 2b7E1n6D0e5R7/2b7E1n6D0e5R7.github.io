@@ -3,7 +3,7 @@ layout: about
 title: О нас
 permalink: /about/
 ---
-## КТО МЫ ТАКИЕ?
+#### КТО МЫ ТАКИЕ?
 
 ![Описание картинки с котиком](http://paranoids-info.github.io/images/logo.png)
 
