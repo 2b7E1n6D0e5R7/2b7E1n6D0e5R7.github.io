@@ -1,4 +1,4 @@
-title: Minimaless Demo
+title: Paranoids
 author: GitHub User
 email: your-email@domain.com
 description: >
@@ -7,12 +7,10 @@ description: >
   Google search results) and in your feed.xml site description.
 
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://www.brettgardiner.net/minimaless" # the base hostname & protocol for your site, e.g. http://example.com
-
-logo: '/img/logo.png'
+url: "http://paranoids.info/" # the base hostname & protocol for your site, e.g. http://example.com
 
 website: https://www.brettinternet.com
-github_username:  brettinternet
+telegram_username:  brettinternet
 bitbucket_username: brettinternet
 codepen_username: brettinternet
 linkedin_username: brettinternet
