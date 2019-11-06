@@ -5,14 +5,6 @@
 #
 #############################################################################
 
-if config['webserver_headers']
-  opts.merge!({
-    :RequestCallback => Proc.new do |req, res|
-      config['webserver_headers'].each {|k,v| res[k] = v }
-    end
-  })
-end
-
 require 'rake'
 require 'date'
 require 'yaml'
