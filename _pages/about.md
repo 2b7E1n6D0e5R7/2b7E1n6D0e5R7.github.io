@@ -24,5 +24,4 @@ permalink: /about/
 <br/>
 Visit this site's [blog]({{site.baseurl}}) or [contact]({{site.baseurl}}/contact/) page.
 
-![Логотип Paranoids](/images/logo_white.png)
 
