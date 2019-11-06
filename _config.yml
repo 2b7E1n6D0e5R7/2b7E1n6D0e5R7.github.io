@@ -10,13 +10,13 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://paranoids.info/" # the base hostname & protocol for your site, e.g. http://example.com
 
 telegram_username:  paranoidsinfo
+vk_username: paranoidsinfo
 linkedin_username: paranoidsinfo
 twitter_username: paranoidsinfo
 facebook_username: paranoidsinfo
 instagram_username: paranoidsinfo
 paypal_username: paranoidsinfo
 youtube_username: paranoidsinfo
-vk_username: paranoidsinfo
 
 
 collections:
