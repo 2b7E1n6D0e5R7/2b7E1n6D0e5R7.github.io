@@ -6,4 +6,3 @@ gem 'jekyll-gist'
 gem 'jekyll-redirect-from'
 gem 'jekyll-archives'
 gem 'jekyll-paginate'
-gem "minimaless"
