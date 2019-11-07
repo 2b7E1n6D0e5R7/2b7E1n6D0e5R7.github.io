@@ -1,5 +1,6 @@
 ---
 layout: donate
+title: На кофе
 permalink: /donate/
 ---
 
