@@ -16,12 +16,12 @@ permalink: /about/
 
 Если изложенная позиция близка вам по духу, присоединяйтесь к нашему комьюнити. Вы можете задавать вопросы и делиться информацией с единомышленниками в нашем [XMPP-чате]({{site.baseurl}}/XMPP/).
 
-Также вы можете поддержать нашу работу рублем (долларом, евро и биткоином).
+Также вы можете поддержать нашу работу рублем (долларом, евро и [биткоином]({{site.baseurl}}/donate/)).
 
 [brettinternet<i class="fa fa-external-link"></i>](https://github.com/brettinternet){:target="_blank"} /
 [minimaless<i class="fa fa-external-link"></i>](https://github.com/brettinternet/minimaless){:target="_blank"}.
 
 <br/>
-Visit this site's [blog]({{site.baseurl}}) or [contact]({{site.baseurl}}/contact/) page.
+Visit this site's [blog]({{site.baseurl}}) or [биткоином]({{site.baseurl}}/donate/) page.
 
 
