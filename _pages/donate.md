@@ -1,5 +1,5 @@
 ---
-layout: donate
+layout: default
 title: На кофе
 permalink: /donate/
 ---
