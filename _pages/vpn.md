@@ -1,5 +1,5 @@
 ---
-layout: vpn
+layout: default
 title: VPN
 permalink: /vpn/
 ---
