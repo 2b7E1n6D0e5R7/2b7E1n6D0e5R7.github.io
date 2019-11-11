@@ -9,7 +9,7 @@ description: >
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://paranoids.info/" # the base hostname & protocol for your site, e.g. http://example.com
 
-telegram_username:  paranoidsinfo
+telegram_username: paranoids_info
 vk_username: paranoidsinfo
 linkedin_username: paranoidsinfo
 twitter_username: paranoidsinfo
