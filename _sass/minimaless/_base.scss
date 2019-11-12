@@ -67,7 +67,7 @@ pre {
   margin-top: $spacing-unit / 6;
 }
 
-p::first-letter {
+p:first-child::first-letter {
     font-size: 36px; /* Размер буквы */
     color: red; /* Цвет буквы */
     float: left; /* Выравнивание по левому краю */
