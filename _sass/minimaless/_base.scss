@@ -67,16 +67,6 @@ pre {
   margin-top: $spacing-unit / 6;
 }
 
-.article:first-child::first-letter {
-    font-size: 36px; /* Размер буквы */
-    color: red; /* Цвет буквы */
-    float: left; /* Выравнивание по левому краю */
-    margin: 0 2px 2px -30px; /* Отступы вокруг буквы */
-   }
-.article {
-    margin-left: 30px; /* Сдвигаем текст вправо */
-   }
-
 /**
  * Images
  */
