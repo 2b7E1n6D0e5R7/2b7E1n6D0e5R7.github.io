@@ -3,7 +3,7 @@ layout: about
 title: О нас
 permalink: /about/
 ---
-<h class="title-post"> Кто мы такие? </h>
+<b class="title-post"> Кто мы такие? </b>
 
 ![paranoids](/images/panopticon.jpg)
 
