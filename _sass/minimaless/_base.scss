@@ -73,7 +73,7 @@ p.article:first-child::first-letter {
     float: left; /* Выравнивание по левому краю */
     margin: 0 2px 2px -30px; /* Отступы вокруг буквы */
    }
-p {
+p.article {
     margin-left: 30px; /* Сдвигаем текст вправо */
    }
 
