@@ -67,7 +67,15 @@ pre {
   margin-top: $spacing-unit / 6;
 }
 
-
+p::first-letter {
+    font-size: 36px; /* Размер буквы */
+    color: red; /* Цвет буквы */
+    float: left; /* Выравнивание по левому краю */
+    margin: 0 2px 2px -30px; /* Отступы вокруг буквы */
+   }
+p {
+    margin-left: 30px; /* Сдвигаем текст вправо */
+   }
 
 /**
  * Images
