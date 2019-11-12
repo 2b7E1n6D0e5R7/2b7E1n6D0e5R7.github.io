@@ -1,8 +1,9 @@
 ---
-title: Что такое GPG/PGP-шифрование? Шифруем, подписываем, проверяем.
+title: Что такое GPG/PGP-шифрование?
 layout: post
 tags: шифрование общение PGP GPG
 ---
+Шифруем, подписываем, проверяем.
 
 ![encryption](/images/encryption.png)
 
