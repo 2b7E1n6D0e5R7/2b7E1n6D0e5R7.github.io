@@ -3,6 +3,7 @@ layout: about
 title: О нас
 permalink: /about/
 ---
+## Кто мы такие?
 
 ![paranoids](/images/panopticon.jpg)
 
