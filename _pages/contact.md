@@ -8,7 +8,7 @@ _Write_ **something** about [yourself](https://www.google.com/search?q=who+am+i)
 
 Also, you might not want to display this many modes of contact.
 
-### Напишите ключ:
+### Наш PGP-ключ:
 ```html
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v1
@@ -41,3 +41,4 @@ h2XvYCHApV2l3jWysWgoB18Fvu2zKCREoB7sV7EUyinLsxUAnK59O9JNuov/8Zac
 =6XV9
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+Если вы не знаете, как шифровать сообщение таким ключом - читайте нашу статью!
