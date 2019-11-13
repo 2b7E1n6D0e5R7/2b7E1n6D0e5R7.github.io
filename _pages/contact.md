@@ -9,37 +9,6 @@ _Write_ **something** about [yourself](https://www.google.com/search?q=who+am+i)
 Also, you might not want to display this many modes of contact.
 
 ### Наш PGP-ключ:
-```
------BEGIN PGP PUBLIC KEY BLOCK-----
-Version: GnuPG v1
 
-mQENBF3L1CIBCADP7pYo18ZwIih/1CK949sh/9QPyXvauif9SwiE+DOBdrCjd3G9
-LiK0p+FN318rKXM3r/8KHogpUgu4pzBaBrnUsIDY9zt/akvrjw9xodos3rZEOF9S
-UluhoE0k+jla4hcGRYm7FoBrBkKQwK+Z12hxd/K4NATk4/wpUZsZ0vPma6fg7FOf
-dwyzPqjv7oGDfee2XpncSyRQMhMJEZwuViKkT+PrDIlz+J4iSbhWj3mKXqWWcpDc
-FXAehRzAyuYDUGpWrOHpl5bsQCyrX1y96IhPqXzGWqSJAKYh37XNGWkUe1nHji44
-e3RCaaJP8M2g86DQYoCx7xXsTL3Rinbkin/1ABEBAAG0IFBhcmFub2lkcyA8YWRt
-aW5AcGFyYW5vaWRzLmluZm8+iQE8BBMBCgAmBQJdy9QiAhsDBQkJZ+2uBQsJCAcD
-BRUKCQgLBBYCAQACHgECF4AACgkQQLkGb368tBhSIAf5Ae0VHb4gBr47AxjOhBPu
-ylo6SKae9murOojJI0cuFH/tziidy3sZRxeLo80wWPJdxFqu1sdotCClpuTMIYw6
-TxBx5wgvGTpKAcpMSUn+31xosa3D9PnU5Zhb0joFZItaPBVvNFtwCwLMs/a4EsJj
-UygIe22bcwm9znQr8FkQfRaKosY9pLYsMnXad2liEYBE17FgVpberzxtKB0rN1S8
-VIQI9HJLD2Q7vHB3G4c0k8cqiyzv6Dp6zAG3AymGLhT/BS1WHF0tBceilvNWV6iG
-0GROAYg8nZVfU2lr3MhfkFzribWPMn38U739HiQ+mEe5erXwMilpI/Roax5xVrbI
-l7kBDQRdy9QiAQgAz8SOPRoNpwOjr7x27csiq5WdPnDGc0jae1+1blDYl9oUdu95
-UOH6irqspf9VQvmTb6DDC8vvowYYGwSuWKX3qocS8w62VhOOgqE0d9h76IDUMvGa
-+8L7eVc1xf52IfOfhGRMdeuiyjFJcfB249UaYjZQFvcek3Ad5eUhMr2VpGsYovbA
-W1Ul9cmkFnN2WjZbUUJR/s9hLoNwnY8el96ZofrzxOMh0LW5Jd4GjFi46Ef311kb
-Wej0w6C+AZVzfgYNEdxtvAtmAEz5yIpPW0bpIGlTVCRLtS8eieu/yCYqfvsII8RH
-C7A0mI+ObduzZfJ5cafwS3Q+oF7iAI4J66TCSwARAQABiQElBBgBCgAPBQJdy9Qi
-AhsMBQkJZ+2uAAoJEEC5Bm9+vLQYutwH/1PJqR+VH9z0arUbmE9+uGaHhhexcXqG
-BjxdfT1TSVjzfadoF1djzberrTXVFZFy0pJ7Oi1iapzOx2G1VWCewSlsQ7/4L9T2
-W8H1KN6+F7Em/KRoHSQK5ss/2I7mfpGwAoqnVj18FRJzN7bzOt0fFCzMjhoLKC9d
-3FxdIzekrO/L8dfOclHUwpcpZs1pc4DEBTv7k+MzREWOmHe3zwUiJpZ85fhsBFW5
-h2XvYCHApV2l3jWysWgoB18Fvu2zKCREoB7sV7EUyinLsxUAnK59O9JNuov/8Zac
-1b3PpYdjyHxoPid3bNjxw15lefgoI8pIuQq80w8zj1//C333eNoWwzQ=
-=6XV9
------END PGP PUBLIC KEY BLOCK-----
-```
 
 Если вы не знаете, как шифровать сообщение таким ключом - читайте нашу статью!
