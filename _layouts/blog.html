@@ -2,8 +2,6 @@
 layout: default
 ---
 
-<div class="blog">
-
   <h1>Tags</h1>
 
 <div class="tags">
@@ -15,6 +13,8 @@ layout: default
       <span class="tag">{{ tag }}{% if count != 1 %}<span class="tag-count">({{ count }})</span>{% endif %}</span></a>
   {% endfor %}
 </div>
+
+<div class="blog">
   
   {{ content }}
 
