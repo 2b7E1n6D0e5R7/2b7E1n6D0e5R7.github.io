@@ -1,10 +1,8 @@
 ---
 layout: default
 ---
-<div class="blog">
-  <h1>Темы</h1>
-
 <div class="tags">
+    <h1>Темы</h1>
   <i class="fa fa-tags"></i>
   {% for tag_obj in site.tags %}
     {% assign tag = tag_obj | first %}
@@ -13,7 +11,6 @@ layout: default
       <span class="tag">{{ tag }}{% if count != 1 %}<span class="tag-count">({{ count }})</span>{% endif %}</span></a>
   {% endfor %}
 </div>
-  </div>
 
 <div class="blog">
   
