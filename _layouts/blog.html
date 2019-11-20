@@ -2,10 +2,22 @@
 layout: default
 ---
 
-{% include tags.html %}
-
 <div class="blog">
 
+  <h1>Tags</h1>
+
+<div class="tags">
+  <i class="fa fa-tags"></i>
+  {% for tag_obj in site.tags %}
+    {% assign tag = tag_obj | first %}
+    {% assign count = site.tags[tag].size %}
+    <a href="{{site.baseurl}}/tag/{{ tag }}">
+      <span class="tag">{{ tag }}{% if count != 1 %}<span class="tag-count">({{ count }})</span>{% endif %}</span></a>
+  {% endfor %}
+</div>
+
+{% include tags.html %}
+  
   {{ content }}
 
   <ul class="post-list">
