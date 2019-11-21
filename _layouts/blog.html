@@ -26,8 +26,10 @@ layout: default
 
 <hr>
 
+  <h2>Навигация по темам</h>
+  
   <div class="tags">
-  <i class="fa fa-tags">Навигация</i>
+  <i class="fa fa-tags"></i>
   {% for tag_obj in site.tags %}
     {% assign tag = tag_obj | first %}
     {% assign count = site.tags[tag].size %}
