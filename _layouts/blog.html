@@ -23,21 +23,7 @@ layout: default
       </li>
     {% endfor %}
   </ul>
-
-<hr>
-
-  <h2>Навигация по темам</h2>
-  
-  <div class="tags">
-  <i class="fa fa-tags"></i>
-  {% for tag_obj in site.tags %}
-    {% assign tag = tag_obj | first %}
-    {% assign count = site.tags[tag].size %}
-    <a href="{{site.baseurl}}/tag/{{ tag }}">
-      <span class="tag">{{ tag }}{% if count != 1 %}<span class="tag-count">({{ count }})</span>{% endif %}</span></a>
-  {% endfor %}
-</div>
-  
+ 
   {% if paginator.total_pages != 1 %}
     <div class="pagination">
       {% if paginator.previous_page %}
@@ -62,5 +48,18 @@ layout: default
     </div>
   {% endif %}
 
+<hr>
 
+  <h2>Навигация по темам</h2>
+  
+  <div class="tags">
+  <i class="fa fa-tags"></i>
+  {% for tag_obj in site.tags %}
+    {% assign tag = tag_obj | first %}
+    {% assign count = site.tags[tag].size %}
+    <a href="{{site.baseurl}}/tag/{{ tag }}">
+      <span class="tag">{{ tag }}{% if count != 1 %}<span class="tag-count">({{ count }})</span>{% endif %}</span></a>
+  {% endfor %}
+</div>
+  
 </div>
