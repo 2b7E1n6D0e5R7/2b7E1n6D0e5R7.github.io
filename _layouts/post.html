@@ -32,24 +32,7 @@ layout: default
   </div>
   {% endif %}
   
-  
-  <ul class="post-list">
-    {% for post in paginator.posts %}
-      <li>
-        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-        {% if site.preview_posts %}
-        {% endif %}
-      </li>
-    {% endfor %}
-  </ul>
-
-  
-  
+       {% include related_posts.html %}  
   {% if site.disqus.shortname %}
     {% include disqus_comments.html %}
   {% endif %}
