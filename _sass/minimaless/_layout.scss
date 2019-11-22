@@ -216,7 +216,7 @@ color: white;
   display: inline;
 }
 .title-black {
-  @include relative-font-size(0.25);
+  @include relative-font-size(1.25);
   font-family: monospace;
   margin-top: 0;
   padding-top: 0;
