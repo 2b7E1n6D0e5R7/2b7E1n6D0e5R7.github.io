@@ -203,6 +203,10 @@
  * About/landing content
  */
 
+.terminal {
+color: white;
+}
+
 .title {
   @include relative-font-size(1.25);
   font-family: monospace;
