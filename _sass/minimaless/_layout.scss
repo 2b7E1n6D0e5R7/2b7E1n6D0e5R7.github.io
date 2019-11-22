@@ -202,6 +202,12 @@
 /**
  * About/landing content
  */
+
+.title {
+  padding: $spacing-unit 0;
+  font-color: green;
+}
+
 .landing-content {
   padding: $spacing-unit 0;
   min-height: $content-height;
