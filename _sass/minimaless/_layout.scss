@@ -2,22 +2,6 @@
  * Site header
  */
 
-#blink1 {
-  -webkit-animation: blink1 3s linear infinite;
-  animation: blink1 3s linear infinite;
-}
-@-webkit-keyframes blink1 {
-  0% { color: rgba(34, 34, 34, 1); }
-  50% { color: rgba(34, 34, 34, 0); }
-  100% { color: rgba(34, 34, 34, 1); }
-}
-@keyframes blink1 {
-  0% { color: rgba(34, 34, 34, 1); }
-  50% { color: rgba(34, 34, 34, 0); }
-  100% { color: rgba(34, 34, 34, 1); }
-}
-
-
 .site-header {
   border-bottom: 1px solid $grey-color-light;
   min-height: $header-height;
@@ -193,6 +177,21 @@
 
 .page-content .icon {
   color: #111;
+}
+
+#blink1 {
+  -webkit-animation: blink1 3s linear infinite;
+  animation: blink1 3s linear infinite;
+}
+@-webkit-keyframes blink1 {
+  0% { color: rgba(34, 34, 34, 1); }
+  50% { color: rgba(34, 34, 34, 0); }
+  100% { color: rgba(34, 34, 34, 1); }
+}
+@keyframes blink1 {
+  0% { color: rgba(34, 34, 34, 1); }
+  50% { color: rgba(34, 34, 34, 0); }
+  100% { color: rgba(34, 34, 34, 1); }
 }
 
 
