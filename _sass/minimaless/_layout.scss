@@ -210,7 +210,6 @@ color: white;
 .title {
   @include relative-font-size(1.25);
   font-family: monospace;
-  margin-top: 0;
   padding-top: 0;
   color: white;
   display: inline;
@@ -218,7 +217,6 @@ color: white;
   .title-black {
   @include relative-font-size(1.25);
   font-family: monospace;
-  margin-top: 0;
   padding-top: 0;
   color: black;
   display: inline;
@@ -280,8 +278,6 @@ color: white;
   .heart {
     color: red;
     display: inline;
-    height: 1em;
-    width: 1em;
     vertical-align: -0.1em;
   }
 }
@@ -466,4 +462,5 @@ color: white;
 }
 .tag-count {
   margin-left: 3px;
+}
 }
