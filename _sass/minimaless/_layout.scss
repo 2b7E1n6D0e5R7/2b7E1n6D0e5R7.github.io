@@ -1,6 +1,12 @@
 /**
  * Site header
  */
+
+blink {
+    animation: blinker .7s infinite alternate;
+}
+
+
 .site-header {
   border-bottom: 1px solid $grey-color-light;
   min-height: $header-height;
