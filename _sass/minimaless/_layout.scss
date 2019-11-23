@@ -189,7 +189,7 @@
 .landing-content .contact-icons a, .site-footer .contact-icons a {
     color: #FFF;
     &:hover {
-      color: #fdfdfd;
+      color: $pastel-red;;
     }
     .keybase-icon {
       fill: #FFF;
@@ -214,8 +214,8 @@ color: white;
   padding-top: 0;
   color: white;
   display: inline;
-}
-.title-black {
+
+  .title-black {
   @include relative-font-size(1.25);
   font-family: monospace;
   margin-top: 0;
@@ -241,7 +241,7 @@ color: white;
   a {
     color: #ff6961;
     &:hover {
-      color: $pastel-red;
+      color: #fdfdfd;
     }
   }
 }
