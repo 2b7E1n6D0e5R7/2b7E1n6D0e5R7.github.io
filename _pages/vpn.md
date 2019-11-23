@@ -1,9 +1,9 @@
 ---
 layout: default
-title: VPN
-permalink: /vpn/
+title: Видео
+permalink: /video/
 ---
 
-## Paranoids VPN
+## Видео-архив
 
-Here we go
+[![Paranoids Intro](http://img.youtube.com/vi/jIGsIYUxUSI/0.jpg)](http://www.youtube.com/watch?v=jIGsIYUxUSI "Paranoids")
