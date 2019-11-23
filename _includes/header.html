@@ -8,7 +8,7 @@
       <a class="site-title"href="{{ "/" | relative_url }}">
       {% for file in site.static_files %}
         {% if file.basename == 'logo' %}
-        <img class="site-logo" src="/images/logo.png" alt="site logo" 
+        <img class="site-logo" src="/images/logo.png" alt="site logo">
           {% break %}
         {% elsif forloop.last == true %}
           {{ site.title | escape }}
