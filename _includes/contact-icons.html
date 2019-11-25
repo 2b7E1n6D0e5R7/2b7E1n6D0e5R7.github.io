@@ -18,6 +18,12 @@
   </li>
   {% endif %}
 
+   {% if site.jabber %}
+  <li>
+    <a href="xmpp:{{ site.jabber }}" target="_blank"><i class="icon fa fa-jabber"></i></a>
+  </li>
+  {% endif %}
+
   {% if site.vk_username %}
   <li>
     <a href="https://vk.com/{{ site.vk_username }}" target="_blank"><i class="icon fa fa-vk"></i></a>
