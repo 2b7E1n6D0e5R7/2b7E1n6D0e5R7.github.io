@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Стать участником
+title: Поддержать
 permalink: /donate/
 ---
 
