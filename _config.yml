@@ -42,6 +42,8 @@ header_pages:
   - _pages/contact.md
   - _pages/setup.md
   - _pages/vpn.md
+  - _pages/donate.md
+
 
 plugins:
   - jekyll-feed
