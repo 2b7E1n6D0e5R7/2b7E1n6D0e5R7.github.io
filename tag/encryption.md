@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag: шифрование
-permalink: /tag/encryption/
+permalink: /tag/шифрование/
 ---
