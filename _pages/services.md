@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Сервисы
-permalink: /donate/
+permalink: /services/
 ---
 <p>Наши сервисы</p>
