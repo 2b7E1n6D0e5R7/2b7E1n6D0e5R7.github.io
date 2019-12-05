@@ -4,6 +4,7 @@
 .highlight {
   background: #252323;
   color: white;
+  boreder-radius: 18px;
   @extend %vertical-rhythm;
 
   .highlighter-rouge & {
