@@ -2,9 +2,11 @@ title: Paranoids
 author: Paranoids
 email: root@paranoids.info
 description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Paranoids - ресурс, специализирующийся на информационной безопасности.
+  Цель проекта выходит далеко за рамки "приватного просмотра веб-страниц",
+  и касается таких вопросов, как психология, навыки выживания в экстримальных ситуациях,
+  построение телекоммуникационных сетей и их оптимизация, анонимизация в сети интернет и реальной жизни.
+  Помимо этого проект является идеологическим родителем целого сообщества людей,  не равнодушных к тайне своей личной жизни.
 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://paranoids.info/" # the base hostname & protocol for your site, e.g. http://example.com
