@@ -3,6 +3,8 @@ layout: default
 title: pgp
 permalink: /pgp/
 ---
+[Вернуться назад](/contact)
+
 # Наш PGP-ключ:
 
 ```html
