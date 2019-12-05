@@ -64,23 +64,6 @@ udp8hA1kZUNFgON0CXNnwdaWgB1Y5v5DVZGzldcONYmdqenGn55m0rIf8klP9lHB
 =y7j0
 
 -----END PGP PUBLIC KEY BLOCK-----
-
-
-<section class="hero is-primary">
-    <div class="hero-body">
-        <div class="container is-fluid">
-            <h1 class="title">
-                Blog Kategorileri
-            </h1>
-            <h2 class="subtitle">
-                Kategorilendirilmiş makaleleri inceleyin.
-                Kategorilendirilmiş makaleleri inceleyin.
-                Kategorilendirilmiş makaleleri inceleyin.
-            </h2>
-        </div>
-    </div>
-</section>
-
 ```
 
 Если вы не знаете, как шифровать сообщение таким ключом - читайте нашу статью!
