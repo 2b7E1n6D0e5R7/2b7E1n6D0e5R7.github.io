@@ -161,7 +161,8 @@ blockquote {
 pre,
 code {
   @include relative-font-size(0.9375);
-  background-color: $grey-color-light;
+  background-color: #252323;
+  
 }
 
 code {
