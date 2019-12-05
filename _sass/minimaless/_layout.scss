@@ -186,8 +186,8 @@
 #blink1 {
   -webkit-animation: blink1 3s linear infinite;
   animation: blink1 3s linear infinite;
-  display: inline-block;
   font-size: 1em;
+  margin-top: -41px;
 }
 @-webkit-keyframes blink1 {
   0% { color: rgba(34, 34, 34, 1); }
