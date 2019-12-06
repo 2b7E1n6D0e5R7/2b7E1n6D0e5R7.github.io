@@ -375,12 +375,18 @@ color: white;
 
 .post-rel {
   font-size: 1em;
+  line-height: 1.2em;
 }
 
+.post_rel-title {
+   line-height: 1em;
+   margin-top: 30.5px;
+   margin-bottom: 24px;
+}
 
 .post-list {
-  margin-left: 0;
-  list-style: none;
+   margin-left: 0;
+   list-style: none;
 
   > li h2 {
     margin: 0 0 $spacing-unit / 4 0;
