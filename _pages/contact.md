@@ -14,7 +14,7 @@ Also, you might not want to display this many modes of contact.
 [посмотреть наш PGP-ключ](/pgp)
 
 
-
+<div id="NhhZEh4E" data-formid="e41575620527i9a" class="_Forms_generate">
 <form class="contact_form" action="/" method="post" name="contact_form" id="e41575620527i9a">
     <input name="forms" type="hidden" class="formid" value="e41575620527i9a">
     <ul>
@@ -47,3 +47,4 @@ Also, you might not want to display this many modes of contact.
         </li>
     </ul>
 </form>
+</div>
