@@ -5,8 +5,6 @@ permalink: /contact/
 ---
 <p>Свяжитесь с нами</p>
 
-<div id="NhhZEh4E" data-formid="e41575620527i9a" class="_Forms_generate">Загрузка формы...</div>
-
 _Write_ **something** about [yourself](https://www.google.com/search?q=who+am+i) here.
 
 Also, you might not want to display this many modes of contact.
@@ -14,7 +12,7 @@ Also, you might not want to display this many modes of contact.
 [посмотреть наш PGP-ключ](/pgp)
 
 
-<div id="NhhZEh4E" data-formid="e41575620527i9a" class="_Forms_generate">
+<div id="NhhZEh4E">
 <form class="contact_form" action="/" method="post" name="contact_form" id="e41575620527i9a">
     <input name="forms" type="hidden" class="formid" value="e41575620527i9a">
     <ul>
