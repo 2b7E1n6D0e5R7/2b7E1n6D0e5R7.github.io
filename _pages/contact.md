@@ -3,10 +3,9 @@ layout: default
 title: Контакты
 permalink: /contact/
 ---
-
-<div id="NhhZEh4E" data-formid="e41575620527i9a" class="_Forms_generate"></div>
-          
 <p>Свяжитесь с нами</p>
+
+<div id="s9zEQBRa" data-formid="rD1575619311SBf" class="_Forms_generate"></div>
 
 _Write_ **something** about [yourself](https://www.google.com/search?q=who+am+i) here.
 
