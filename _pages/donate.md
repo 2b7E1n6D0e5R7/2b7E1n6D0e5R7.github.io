@@ -15,11 +15,13 @@ permalink: /donate/
 <br>
 <button id="copy">Копировать текст</button>
 
+<div id="code">348dcb6f-3a73-48a8-86dc-4383b1b08942</div>
+
 <script>
 	$('#copy').click(function() {
 	    var $temp = $("<input>");
 	    $("body").append($temp);
-	    $temp.val($('<code>').text()).select();
+	    $temp.val($('#code').text()).select();
 	    document.execCommand("copy");
 	    $temp.remove();
 
