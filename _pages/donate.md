@@ -8,11 +8,10 @@ permalink: /donate/
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 
 ### Bitcoin:
-<div id ="text">
+
 ```html
 348dcb6f-3a73-48a8-86dc-4383b1b08942
 ```
-</div>
 <br>
 <button id="copy">Копировать текст</button>
 
@@ -20,7 +19,7 @@ permalink: /donate/
 	$('#copy').click(function() {
 	    var $temp = $("<input>");
 	    $("body").append($temp);
-	    $temp.val($('#text').text()).select();
+	    $temp.val($('<code>').text()).select();
 	    document.execCommand("copy");
 	    $temp.remove();
 
