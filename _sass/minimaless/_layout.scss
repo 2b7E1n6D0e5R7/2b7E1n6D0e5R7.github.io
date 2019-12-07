@@ -2,33 +2,24 @@
  * Site header
  */
 
-a.ddott {
-    margin:0 auto;
-    display: block;
-    line-height: 50px;
-    height: 50px;
-    width: 24%;
-    overflow: hidden;
-    text-align: center;
-    text-decoration: none;
-    font-weight: bold;
-    text-shadow: 0 100px 0 #FFF,1px 76px 10px #000;
-    color: #FFF;
-    background: #5D8EC7;
-    border-right: 2px solid #FFF;
-    border-left: 2px solid #FFF;
-    -webkit-transition: all 0.3s ease-in-out;
-    -moz-transition: all 0.3s ease-in-out;
-    -o-transition: all 0.3s ease-in-out;
-    -ms-transition: all 0.3s ease-in-out;
-    transition: all 0.3s ease-in-out;
-
+a.glo{
+ color:#00c6ff;
+ padding: 10px 20px;
+ width:100px;
+ text-decoration:none;
+ text-align:center;
+ margin:20px auto;
+ display: block;
+ background-image: linear-gradient(to left,transparent,transparent 50%,#00c6ff 50%,#00c6ff);
+ background-position: 100% 0;
+ background-size: 200% 100%;
+ transition: all .25s ease-in;
+ font: 400 18px tahoma;
+ border: 1px solid #00C6FF;
 }
-a.ddott:hover {
-    text-shadow: 0 50px 0 #FFF, 1px 51px 20px #FFF;
-    margin-top: -50px;
-    height: 100px;
-    background: #222;
+a.glo:hover {
+background-position: 0 0;
+color:#fff;
 }
 
 #code { display:none }
