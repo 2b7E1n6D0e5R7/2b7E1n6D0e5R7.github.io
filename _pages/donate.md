@@ -13,7 +13,7 @@ permalink: /donate/
 <div id="code">348dcb6f-3a73-48a8-86dc-4383b1b08942</div>
 
 <br>
-<button id="copy">Копировать адрес</button>
+<button class="ddott" id="copy">Копировать адрес</button>
 
 <script>
 	$('#copy').click(function() {
