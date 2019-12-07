@@ -5,17 +5,15 @@ permalink: /donate/
 ---
 <p>Поддержите проект</p>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-
 ### Bitcoin:
 
 ```html
 348dcb6f-3a73-48a8-86dc-4383b1b08942
 ```
-<br>
-<button id="copy">Копировать текст</button>
-
 <div id="code">348dcb6f-3a73-48a8-86dc-4383b1b08942</div>
+
+<br>
+<button id="copy">Копировать адрес</button>
 
 <script>
 	$('#copy').click(function() {
@@ -24,8 +22,7 @@ permalink: /donate/
 	    $temp.val($('#code').text()).select();
 	    document.execCommand("copy");
 	    $temp.remove();
-
-  $(this).text('Тест скопирован!');
+  $(this).text('адрес скопирован!');
   });
 </script>
 
