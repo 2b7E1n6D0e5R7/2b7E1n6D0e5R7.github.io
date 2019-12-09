@@ -9,7 +9,6 @@ permalink: /contact/
              <h2>Свяжитесь с нами</h2>
   </li>
  </ul> 
-</div>
 
 <hr>
 
