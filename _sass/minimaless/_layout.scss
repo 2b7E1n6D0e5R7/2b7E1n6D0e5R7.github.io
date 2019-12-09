@@ -49,14 +49,17 @@
 	font-weight: 400;
 }
 ._Forms_generate input {
-	height:20px; 
-	width:220px; 
+	height: auto;
+   	width: -webkit-fill-available;
+    	max-width: 220px;
 	padding:5px 8px;
 }
+
 ._Forms_generate textarea {
 	padding:8px; 
 	resize: none; 
-	width: auto;
+	width: -webkit-fill-available;
+    	max-width: 220px;
 }
 ._Forms_generate button {margin-left:156px;}
 
