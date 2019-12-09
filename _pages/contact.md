@@ -4,7 +4,6 @@ title: Контакты
 permalink: /contact/
 ---
 
-<div id="NhhZEh4E" data-formid="e41575620527i9a" class="_Forms_generate">
 <ul>      
   <li>
              <h2>Свяжитесь с нами</h2>
