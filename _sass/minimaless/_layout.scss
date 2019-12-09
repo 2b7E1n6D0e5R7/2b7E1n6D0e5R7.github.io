@@ -41,11 +41,12 @@
 
 /* === Form Elements === */
 ._Forms_generate label {
-	width:220px;
+	width:260px;
 	margin-top: 3px;
 	display:inline-block;
 	float:left;
 	padding:3px;
+	font-weight: 400;
 }
 ._Forms_generate input {
 	height:20px; 
@@ -78,7 +79,7 @@ width: auto;
 		background: #fff; 
 		border:1px solid #555; 
 		box-shadow: 0 0 3px #aaa; 
-		padding-right:70px;
+		padding-right:1px;
 	}
 
 
