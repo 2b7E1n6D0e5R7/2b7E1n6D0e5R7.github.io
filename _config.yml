@@ -28,9 +28,10 @@ collections:
 #   shortname:
 
 # Minimaless date format
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this %b %-d, %Y
 minimaless:
-  date_format: "%b %-d, %Y"
+  date_format: "%Y-%m-%d %H:%M"
+  
 preview_posts: true
 permalink: /:title
 paginate: 10 # increase this value to reflect how many posts per page you want
