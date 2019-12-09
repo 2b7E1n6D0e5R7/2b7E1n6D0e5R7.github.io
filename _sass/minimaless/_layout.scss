@@ -18,6 +18,11 @@
 	border-bottom:1px solid #eee;
 	position:relative;
 } 
+
+._Forms_generate li:first-child {
+	margin-top: -25px;
+    }
+
 ._Forms_generate li:first-child, ._Forms_generate li:last-child {
 	border-bottom:1px solid #777;
 }
