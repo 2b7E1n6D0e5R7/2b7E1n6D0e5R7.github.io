@@ -8,7 +8,6 @@ permalink: /contact/
 <ul>      
   <li>
              <h2>Свяжитесь с нами</h2>
-             <span class="required_notification">* Denotes Required Field</span>
   </li>
  </ul> 
 </div>
