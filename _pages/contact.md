@@ -3,13 +3,11 @@ layout: default
 title: Контакты
 permalink: /contact/
 ---
-<p>Свяжитесь с нами</p>
-
 
 <div id="NhhZEh4E" data-formid="e41575620527i9a" class="_Forms_generate">
 <ul>      
   <li>
-             <h2>Contact Us</h2>
+             <h2>Свяжитесь с нами</h2>
              <span class="required_notification">* Denotes Required Field</span>
   </li>
  </ul> 
