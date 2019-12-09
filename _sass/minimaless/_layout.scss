@@ -107,7 +107,7 @@
 ._Forms_generate input:required:valid + .form_hint::before {color:#28921f;}
 	
 /* === Button Style === */
-button.submit {
+.button.submit {
 	background-color: #68b12f;
 	background: -webkit-gradient(linear, left top, left bottom, from(#68b12f), to(#50911e));
 	background: -webkit-linear-gradient(top, #68b12f, #50911e);
@@ -133,11 +133,11 @@ button.submit {
 	text-align: center;
 	text-shadow: 0 -1px 0 #396715;
 }
-button.submit:hover {
+.button.submit:hover {
 	opacity:.85;
 	cursor: pointer; 
 }
-button.submit:active {
+.button.submit:active {
 	border: 1px solid #20911e;
 	box-shadow: 0 0 10px 5px #356b0b inset; 
 	-webkit-box-shadow:0 0 10px 5px #356b0b inset ;
