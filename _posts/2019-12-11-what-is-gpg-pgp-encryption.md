@@ -4,7 +4,7 @@ layout: post
 tags: шифрование общение PGP
 ---
 
-#Шифруем, подписываем, проверяем.
+# #Шифруем, подписываем, проверяем.
 
 ![encryption](/images/pgp-encryption-pgp.png)
 
