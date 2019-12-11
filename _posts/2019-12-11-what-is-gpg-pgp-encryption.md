@@ -1,5 +1,5 @@
 ---
-title: Что такое GPG/PGP-шифрование?
+title: Что такое PGP/GPG-шифрование?
 layout: post
 tags: шифрование общение PGP
 ---
