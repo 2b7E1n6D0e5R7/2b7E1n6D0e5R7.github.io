@@ -7,9 +7,9 @@ meta: "Springfield"
 tags: examples
 ---
 
-<b class="bukvica">С</b>тарая пословица гласит «от тюрьмы и сумы не зарекайся», мы добавим «не зарекайся вообще и всегда будь готов к самому неприятному стечению обстоятельств».
-
-Как правило, люди не ждут войны, не ждут ночного визита людей в масках (с погонами или без), не готовы к экономическому и прочим глобальным кризисам. Все вокруг настоятельно внушают нам яркое солнце, большие пенсии и счастливых внуков на лужайке. Удобно, когда человек полностью зависим от предоставляемых ему благ, а без них — не способен выжить. Он не думает, не беспокоится, живет в милой иллюзии и радуется стабильности и безопасности. За примером далеко ходить не надо. Вспомните фильмы, в которых серьезные бандиты общаются между собой о важном деле по обычной телефонной связи, при этом их дело оказывается успешным. Смешно? Может быть. Особенно в свете новых трендов на сбор голосовых отпечатков «для безопасности банковских операций». В сути своей это такое же воздействие на общественность, как хип-хоп культура, взращивающая наркозависимых людей. Аудиовизуальные образы создают личность, а не терпение и труд. Потом и получается: делаю так и не знаю почему. Почему не готов к отключению электричества? Почему не готов жить без интернета? Почему не способен выжить в лесу? 
+<b class="bukvica">С</b>тарая пословица гласит «от тюрьмы и сумы не зарекайся», мы добавим «не зарекайся вообще и всегда будь готов к самому неприятному стечению обстоятельств». Как правило, люди не ждут войны, не ждут ночного визита людей в масках (с погонами или без), не готовы к экономическому и прочим глобальным кризисам.
+Все вокруг настоятельно внушают нам яркое солнце, большие пенсии и счастливых внуков на лужайке. Удобно, когда человек полностью зависим от предоставляемых ему благ, а без них — не способен выжить. Он не думает, не беспокоится, живет в милой иллюзии и радуется стабильности и безопасности. За примером далеко ходить не надо. Вспомните фильмы, в которых серьезные бандиты общаются между собой о важном деле по обычной телефонной связи, при этом их дело оказывается успешным. Смешно? Может быть. Особенно в свете новых трендов на сбор голосовых отпечатков «для безопасности банковских операций».
+В сути своей это такое же воздействие на общественность, как хип-хоп культура, взращивающая наркозависимых людей. Аудиовизуальные образы создают личность, а не терпение и труд. Потом и получается: делаю так и не знаю почему. Почему не готов к отключению электричества? Почему не готов жить без интернета? Почему не способен выжить в лесу? 
 
 Итак, необходимо быть готовым ко всевозможным происшествиям, а больше всего к тому, что имеет наибольшую вероятность. Например, яркому оппозиционеру надо быть готовым к возможному аресту, в прошлом судимому человеку необходимо быть готовым к попытке фабрикации нового дела, активисту «СтопХам» — к избиению недовольным автолюбителем. Список можно продолжать. Цифровой гигиене, безопасному хранению данных и обмену ими мы посвятим отдельную серию статей.
 В материалах подобного характера часто встречается термин «БП», означающий «большое происшествие», если выражаться цензурно. Он емкий и понятный, поэтому будет использоваться и тут в смысле любого чрезвычайного обстоятельства. Также это в дальнейшем поможет вам лучше воспринимать материал по данной тематике, где бы вы его не нашли.
@@ -41,94 +41,3 @@ tags: examples
 Сложнее всего уйти от тепловизора зимой и в том случае, если тепловизор видит нас сверху. Притоптанный снег через тепловизор виден яркими пятнами, в этих местах тепло земли проникает наиболее сильно, чем из-под нетронутого сугроба. В случае тепловизора со стороны, от него можно закрыться за любой подвешенной тканью. Тканью, подвешенной не на руках, потому что тепло рук будет видно, а, например, на палках. Если же тепловизор смотрит на нас сверху, никакие тряпки (особенно зимой) нам не помогут, потому что теплый воздух поднимается вверх и наше укрытие начинает «светиться». В таком случае лучшим вариантом будет многослойность убежища, например заброшенные промышленные объекты и прочие постройки, отсекающие прямую видимость теплых зон внутри. Авангардом укрытия выступает подводное убежище, что тоже является отдельной большой темой.
 Нельзя промолчать об одежде. Наша одежда должна быть не броской, не запоминающейся и практичной. Лучше всего под цвет окружающей местности, если бежим тайком, либо серо-черная в случае нашего нахождения в обществе. Желательно избегать комуфляжа и дорогих на вид вещей. Подобная одежда может привлекать не нужное внимание.
 Пятое. «Что дальше?»  Естественно, нам надо иметь логически завершенный план. Это может быть бегство за границу, в сибирские леса или на Северный полюс. При составлении плана действий обязательно уделяем этому большое внимание, чтобы не получилось, что еда и вода в лесу заканчиваются, а что делать дальше — не ясно, потому что дальше только висилица. При необходимости прокладываем маршруты, делаем тайники с провизией по пути следования и тому подобное. Нужна инфраструктура. Важным моментом является рассчет провизии в виде «на одного человека в день» с рассчетом на количество человек.
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
-
-# Some great heading (h1)
-
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.
-
-Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-## Another great heading (h2)
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
-
-### Some great subheading (h3)
-
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.
-
-Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
-
-### Some great subheading (h3)
-
-Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-> This quote will change your life. It will reveal the secrets of the universe, and all the wonders of humanity. Don't misuse it.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt.
-
-### Some great subheading (h3)
-
-Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum.
-
-```html
-<html>
-  <head>
-  </head>
-  <body>
-    <p>Hello, World!</p>
-  </body>
-</html>
-```
-
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-#### You might want a sub-subheading (h4)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-#### But it's probably overkill (h4)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-### Oh hai, an unordered list!!
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-- First item, yo
-- Second item, dawg
-- Third item, what what?!
-- Fourth item, fo sheezy my neezy
-
-### Oh hai, an ordered list!!
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-1. First item, yo
-2. Second item, dawg
-3. Third item, what what?!
-4. Fourth item, fo sheezy my neezy
-
-
-
-## Headings are cool! (h2)
-
-Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
-
-### Table
-
-Title 1 | Title 2 | Title 3 | Title 4
---- | --- | --- | ---
-lorem | lorem ipsum | lorem ipsum dolor | lorem ipsum dolor sit
-lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur | lorem ipsum dolor sit amet | lorem ipsum dolor sit
-lorem ipsum dolor | lorem ipsum | lorem | lorem ipsum
-lorem ipsum dolor | lorem ipsum dolor sit | lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur
