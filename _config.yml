@@ -45,7 +45,7 @@ header_pages:
   - _pages/about.md
   - _pages/contact.md
   - _pages/services.md
-  - _pages/donate.md
+#  - _pages/donate.md
 
 plugins:
   - jekyll-feed
