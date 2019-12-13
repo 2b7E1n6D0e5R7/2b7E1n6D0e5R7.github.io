@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Скоро
+title: Сервисы
 permalink: /services/
 ---
 <p>Скоро здесь появятся наши сервисы</p>
