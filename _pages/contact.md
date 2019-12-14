@@ -6,4 +6,4 @@ permalink: /contact/
 ```
 admin@paranoids.info
 ```
-[&gt;посмотреть наш PGP-ключ](/pgp)
+[ &gt; посмотреть наш PGP-ключ](/pgp)
