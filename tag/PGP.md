@@ -1,5 +1,5 @@
 ---
 layout: tags
-tag: PGP
+tag: PGP/GPG
 permalink: /tag/PGP/
 ---
