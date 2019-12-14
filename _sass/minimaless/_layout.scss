@@ -203,6 +203,24 @@ background-position: 0 0;
 color:#fff;
 }
 
+.glo_a {
+color: #11ec4b;
+    padding: 6px 20px;
+    width: 153px;
+    text-decoration: none;
+    text-align: center;
+    margin: -36px auto 17px 0px;
+    display: inline-block;
+    background: #252323;
+    background-image: linear-gradient(to left, transparent, transparent 50%, #101010 50%, #3ae010);
+    background-position: 100% 0;
+    background-size: 200% 100%;
+    transition: all .25s ease-in;
+    font: 400 0.8em sans-serif;
+    border: 1px solid #46e000;
+    border-radius: 11px;	
+}
+
 .glo:link {
 background-position: 0 0;
 color: #11ec4b;
