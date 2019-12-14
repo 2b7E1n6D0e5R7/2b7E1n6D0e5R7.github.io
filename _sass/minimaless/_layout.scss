@@ -208,7 +208,7 @@ background-position: 0 0;
 color: #11ec4b;
 }
 
-.glo:vidited {
+.glo:visited {
 background-position: 0 0;
 color: #11ec4b;
 }
@@ -219,7 +219,11 @@ color:#fff;
 }
 
 .button_a {
-color: #11ec4b
+color: #11ec4b;	
+}
+
+.button_a:hover {
+color: #fff;	
 }
 
 #code { display:none }
