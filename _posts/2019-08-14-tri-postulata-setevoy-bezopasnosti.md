@@ -1,7 +1,7 @@
 ---
 title: Три постулата сетевой безопасности для каждого пользователя.
 layout: post
-tags: шифрование общение PGP GPG
+tags: шифрование PGP/GPG
 ---
 
 ![encryption](/images/paranoids-network-administator.png)
