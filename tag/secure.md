@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag: безопасность
-permalink: /tag/secure/
+permalink: /tag/безопасность/
 ---
