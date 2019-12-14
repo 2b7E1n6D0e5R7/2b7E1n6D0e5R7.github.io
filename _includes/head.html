@@ -22,6 +22,19 @@
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
   
   <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+ 
+  <script>
+  
+	$('#copy').click(function() {
+	    var $temp = $("<input>");
+	    $("body").append($temp);
+	    $temp.val($('#code').text()).select();
+	    document.execCommand("copy");
+	    $temp.remove();
+  $(this).text('адрес скопирован!');
+  });
+    
+</script>
   
   {% if jekyll.environment == 'production' and site.google_analytics %}
   {% include google-analytics.html %}
