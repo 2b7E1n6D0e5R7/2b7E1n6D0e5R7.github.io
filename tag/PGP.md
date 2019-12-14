@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag: PGP/GPG
-permalink: /tag/PGP/
+permalink: /tag/PGP/GPG
 ---
