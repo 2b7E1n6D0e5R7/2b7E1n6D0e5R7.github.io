@@ -28,7 +28,7 @@
 	$('#copy').click(function() {
 	    var $temp = $("<input>");
 	    $("body").append($temp);
-	    $temp.val($('#code,#code1,#code2,#code3,#code4').text()).select();
+	    $temp.val($('#code').text()).select();
 	    document.execCommand("copy");
 	    $temp.remove();
   $(this).text('адрес скопирован!');
