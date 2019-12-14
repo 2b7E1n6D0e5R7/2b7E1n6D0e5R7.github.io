@@ -184,7 +184,7 @@ button.submit:active {
     text-decoration: none;
     text-align: center;
     margin: -36px auto 17px 0px;
-    display: block;
+    display: inline-block;
     background: #252323;
     background-image: linear-gradient(to left, transparent, transparent 50%, #101010 50%, #3ae010);
     background-position: 100% 0;
@@ -192,7 +192,7 @@ button.submit:active {
     transition: all .25s ease-in;
     font: 400 0.8em sans-serif;
     border: 1px solid #46e000;
-    border-radius: 11px;
+    border-radius: 11px;	
 }
 
 .glo:hover {
