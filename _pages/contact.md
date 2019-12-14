@@ -9,4 +9,6 @@ root@paranoids.info
 <div id="code">root@paranoids.info</div>
 <br>
 <button class="glo" id="copy">Копировать адрес</button>
-<button class="glo"><a href="/pgp" class="button_a">наш PGP-ключ</a></button>
+<form action="/pgp/">
+<button class="glo" type="submit">наш PGP-ключ</button>
+</form>
