@@ -1,6 +1,6 @@
 ---
 layout: default
-title: pgp
+title: PGP
 permalink: /pgp/
 ---
 [ << Вернуться назад](/contact)
