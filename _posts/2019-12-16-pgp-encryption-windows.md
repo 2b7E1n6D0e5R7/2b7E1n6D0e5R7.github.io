@@ -12,7 +12,7 @@ tags: шифрование PGP/GPG
 Скачать Gpg4Win можно с [официального сайта<i class="fa fa-external-link"></i>](https://www.gpg4win.org/ "официальный сайт Gpg4Win"){:target="_blank"}, либо с нашего сервера. Программа распространяется бесплатно, однако на официальном сайте разработчики настойчиво просят пожертвовать, но при отсутствии возможности помочь, скачать все равно можно.
 
 
-[![скриншот к статье](/images/posts/pgp-windows/0.png "PGP4Win страница загрузки")]({{site.baseurl}}/images/posts/pgp-windows/0.png "увеличить изображение"){:target="_blank"}{:class="zoom-in"}
+[![скриншот к статье](/images/posts/pgp-windows/0.png "PGP4Win страница загрузки")]({{site.baseurl}}/images/posts/pgp-windows/0.png "увеличить изображение"){:target="_blank"}{:class="zoom-in"}{:style="border:groove 2px #717171; border-radius: 12px;"}
 
 Для этого со страницы PayPal нужно вернуться на страницу загрузки. 
 
