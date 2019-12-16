@@ -1,6 +1,6 @@
 ---
 layout: wiki
-word: PGP/GPG
+word: проприетарный
 permalink: /wiki/проприетарный
 ---
 
