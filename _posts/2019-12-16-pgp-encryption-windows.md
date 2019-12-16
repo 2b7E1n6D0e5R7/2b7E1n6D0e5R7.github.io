@@ -16,13 +16,13 @@ tags: шифрование PGP/GPG
 
 Для этого со страницы PayPal нужно вернуться на страницу загрузки. 
 
-[![скриншот к статье](/images/posts/pgp-windows/1.png)]({{site.baseurl}}/images/posts/pgp-windows/1.png){:target="_blank"}{:class="zoom-in"}
+[![скриншот к статье](/images/posts/pgp-windows/1.png)]({{site.baseurl}}/images/posts/pgp-windows/1.png){:target="_blank"}{:class="zoom-in"}{:style="border:groove 2px #717171; border-radius: 12px;"}
 
-[![скриншот к статье](/images/posts/pgp-windows/2.png)]({{site.baseurl}}/images/posts/pgp-windows/2.png){:target="_blank"}{:class="zoom-in"}
+[![скриншот к статье](/images/posts/pgp-windows/2.png)]({{site.baseurl}}/images/posts/pgp-windows/2.png){:target="_blank"}{:class="zoom-in"}{:style="border:groove 2px #717171; border-radius: 12px;"}
 
 В разделе загрузок на сайте предоставлена контрольная сумма SHA256, при помощи которой можно удостовериться в том, что мы скачали не поврежденный файл. 
 
-[![скриншот к статье](/images/posts/pgp-windows/3.png)]({{site.baseurl}}/images/posts/pgp-windows/3.png){:target="_blank"}{:class="zoom-in"}
+[![скриншот к статье](/images/posts/pgp-windows/3.png)]({{site.baseurl}}/images/posts/pgp-windows/3.png){:target="_blank"}{:class="zoom-in"}{:style="border:groove 2px #717171; border-radius: 12px;"}
 
 Если вы не знаете, что такое контрольная сумма и как ее проверять - ознакомьтесь с соответствующей статьей.
 
