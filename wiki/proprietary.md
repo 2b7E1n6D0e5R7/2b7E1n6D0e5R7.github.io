@@ -1,6 +1,5 @@
 ---
-layout: wiki
-word: проприетарный
+layout: page
 permalink: /wiki/проприетарный
 ---
 
