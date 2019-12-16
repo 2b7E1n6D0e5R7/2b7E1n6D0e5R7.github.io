@@ -2,6 +2,26 @@
  * Site header
  */
 
+.spoiler {
+    display: none;
+}
+
+.trigger.close {
+    display: none;
+}
+
+.trigger.open:target {
+    display: none;
+}
+
+.trigger.open:target + .trigger.close {
+    display: inline;
+}
+
+.trigger.open:target + .trigger.close + .spoiler {    
+    display: block;
+}
+
 .zoom-in { cursor: zoom-in; }
 
 .glo {	
