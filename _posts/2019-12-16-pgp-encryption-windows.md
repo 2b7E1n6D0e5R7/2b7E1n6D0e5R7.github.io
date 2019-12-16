@@ -12,17 +12,17 @@ tags: шифрование PGP/GPG
 Скачать Gpg4Win можно с [официального сайта<i class="fa fa-external-link"></i>](https://www.gpg4win.org/ "официальный сайт Gpg4Win"){:target="_blank"}, либо с нашего сервера. Программа распространяется бесплатно, однако на официальном сайте разработчики настойчиво просят пожертвовать, но при отсутствии возможности помочь, скачать все равно можно.
 
 
-[![скриншот к статье](/images/posts/pgp-windows/0.png "PGP4Win страница загрузки")]({{site.baseurl}}/images/posts/pgp-windows/0.png "увеличить изображение"){:target="_blank"}{:class="zoom-in"}{:style="border:groove 2px #717171; border-radius: 12px;"}
+[![скриншот к статье](/images/posts/pgp-windows/0.png "PGP4Win страница загрузки")]({{site.baseurl}}/images/posts/pgp-windows/0.png "увеличить изображение"){:target="_blank"}{:class="zoom-in border-pic"}
 
 Для этого со страницы PayPal нужно вернуться на страницу загрузки. 
 
-[![скриншот к статье](/images/posts/pgp-windows/1.png)]({{site.baseurl}}/images/posts/pgp-windows/1.png){:target="_blank"}{:class="zoom-in"}{:style="border:groove 2px #717171; border-radius: 12px;"}
+[![скриншот к статье](/images/posts/pgp-windows/1.png)]({{site.baseurl}}/images/posts/pgp-windows/1.png){:target="_blank"}{:class="zoom-in border-pic"}
 
-[![скриншот к статье](/images/posts/pgp-windows/2.png)]({{site.baseurl}}/images/posts/pgp-windows/2.png){:target="_blank"}{:class="zoom-in"}{:style="border:groove 2px #717171; border-radius: 12px;"}
+[![скриншот к статье](/images/posts/pgp-windows/2.png)]({{site.baseurl}}/images/posts/pgp-windows/2.png){:target="_blank"}{:class="zoom-in border-pic"}
 
 В разделе загрузок на сайте предоставлена контрольная сумма SHA256, при помощи которой можно удостовериться в том, что мы скачали не поврежденный файл. 
 
-[![скриншот к статье](/images/posts/pgp-windows/3.png)]({{site.baseurl}}/images/posts/pgp-windows/3.png){:target="_blank"}{:class="zoom-in"}{:style="border:groove 2px #717171; border-radius: 12px;"}
+[![скриншот к статье](/images/posts/pgp-windows/3.png)]({{site.baseurl}}/images/posts/pgp-windows/3.png){:target="_blank"}{:class="zoom-in border-pic"}
 
 Если вы не знаете, что такое контрольная сумма и как ее проверять - ознакомьтесь с соответствующей статьей.
 
