@@ -10,8 +10,7 @@ tags: шифрование PGP/GPG
 В этой статье мы разберем практическую часть использования PGP-шифрования на Windows на примере кроссплатформенной Kleopatra.  Бесплатный менеджер ключей Kleopatra - это графическая оболочка GnuPG, а GPG4Win - удобное решение для Windows, в состав которого входит и упомянутый продукт. Если вы не имеете общего представления о PGP-шифровании, можете ознакомиться с вводной [статьей<i class="fa fa-external-link"></i>]({{site.baseurl}}/what-is-gpg-pgp-encryption){:target="_blank"} по этой теме.
 
 Скачать PGP4Win можно с [официального сайта<i class="fa fa-external-link"></i>](https://www.gpg4win.org/){:target="_blank"}, либо с нашего сервера. Программа распространяется бесплатно, однако на официальном сайте разработчики настойчиво просят пожертвовать, но при отсутствии возможности помочь, скачать все равно можно.
-
-![PGP-шифрование Windows](/images/posts/pgp-windows/0.png)({{site.baseurl}}/images/posts/pgp-windows/0.png){:target="_blank"}
+[![PGP-шифрование Windows](/images/posts/pgp-windows/0.png)]({{site.baseurl}}/images/posts/pgp-windows/0.png){:target="_blank"}
 
 Для этого со страницы PayPal нужно вернуться на страницу загрузки. 
 
