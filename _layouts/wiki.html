@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+{% if page.word %}
+<h1>#{{ page.word }}</h1>
+
+<ul class="post-list">
+{% if site.tags[page.word] %}
+  {% for post in site.tags[page.word] %}
+    <li>
+      {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+      <span class="post-meta">{{ post.date | date: date_format }}</span>
+
+      <h2>
+        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+      </h2>
+      {% if site.preview_posts %}
+      <p>
+        {{ post.content | strip_html | truncatewords:25 }}
+      </p>
+      {% endif %}
+    </li>
+  {% endfor %}
+{% endif %}
+</ul>
+
+
+<hr>
+{% endif %}
+
+
+{% if site.tags != '' %}
+<h1>Другие слова:</h1>
+
+<div class="wiki">
+  <i class="fa fa-tags"></i>
+  {% for word_obj in site.words %}
+    {% assign word = word_obj | first %}
+    {% assign count = site.words[word].size %}
+    <a href="{{site.baseurl}}/wiki/{{ word }}">
+      <span class="word">{{ word }}{% if count != 1 %}<span class="word-count">({{ count }})</span>{% endif %}</span></a>
+  {% endfor %}
+</div>
+{% endif %}
