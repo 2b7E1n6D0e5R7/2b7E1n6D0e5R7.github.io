@@ -8,5 +8,7 @@ root@paranoids.info
 ```
 <div id="code">root@paranoids.info</div>
 <br>
+<p class="buttons">
 <button class="glo" id="copy">Копировать адрес</button>
 <a href="/pgp/" class="glo_a">наш PGP-ключ</a>
+</p>
