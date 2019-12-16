@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: wiki
 permalink: /wiki/проприетарный
 ---
 
