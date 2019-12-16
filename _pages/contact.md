@@ -7,7 +7,7 @@ permalink: /contact/
 root@paranoids.info
 ```
 <div id="code">root@paranoids.info</div>
-<p class="buttons" style="margin-bottom: -30px;">
+<p class="buttons">
 <br>
 </p>
 <button class="glo" id="copy">Копировать адрес</button>
