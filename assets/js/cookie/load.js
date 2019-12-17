@@ -131,9 +131,9 @@
 			cssCode += "#pjAcceptCookieBar a[href^=tel] { color: inherit; }";
 			cssCode += "#pjAcceptCookieBar a:focus,";
 			cssCode += "#pjAcceptCookieBar button:focus { outline: unset; outline: none; }";
-			cssCode += "#pjAcceptCookieBar p { font-size: 18px; line-height: 1.4; color: #fff; font-weight: 400; }";
+			cssCode += "#pjAcceptCookieBar p { font-size: 12px; line-height: 1.4; color: #fff; font-weight: 400; }";
 			cssCode += "#pjAcceptCookieBar .pjAcceptCookieBarActions { padding-top: 10px; }";
-			cssCode += "#pjAcceptCookieBar .pjAcceptCookieBarBtn { position: relative; display: inline-block; height: 46px; padding: 0 30px; border: 0; background: #4285f4; font-size: 18px; line-height: 44px; color: #fff; text-decoration: none; vertical-align: middle; cursor: pointer; border-radius: 0; -webkit-appearance: none; -webkit-border-radius: 0; -webkit-transform: translateZ(0); transform: translateZ(0); -webkit-backface-visibility: hidden; backface-visibility: hidden; -moz-osx-font-smoothing: grayscale; }";
+			cssCode += "#pjAcceptCookieBar .pjAcceptCookieBarBtn { position: relative; display: inline-block; height: 46px; padding: 0 30px; border: 0; background: #4285f4; font-size: 12px; line-height: 44px; color: #fff; text-decoration: none; vertical-align: middle; cursor: pointer; border-radius: 0; -webkit-appearance: none; -webkit-border-radius: 0; -webkit-transform: translateZ(0); transform: translateZ(0); -webkit-backface-visibility: hidden; backface-visibility: hidden; -moz-osx-font-smoothing: grayscale; }";
 			cssCode += "#pjAcceptCookieBar .pjAcceptCookieBarBtn:hover,";
 			cssCode += "#pjAcceptCookieBar .pjAcceptCookieBarBtn:focus { text-decoration: none; }";
 			cssCode += "#pjAcceptCookieBar .pjAcceptCookieBarBtn:after { position: absolute; top: 0; right: 52%; bottom: 0; left: 52%; z-index: -1; border-bottom: 4px solid #14428d; background: rgba(20, 66, 141, .3); content: ''; }";
@@ -142,7 +142,7 @@
 			cssCode += "@media only screen and (max-width: 767px) {";
 			cssCode += "#pjAcceptCookieBar { padding: 15px 0; }";
 			cssCode += "#pjAcceptCookieBar .pjAcceptCookieBarShell { width: 96%; }";
-			cssCode += "#pjAcceptCookieBar p { font-size: 16px; }";
+			cssCode += "#pjAcceptCookieBar p { font-size: 12px; }";
 			cssCode += "}";
 
 			var styleElement = document.createElement("style");
