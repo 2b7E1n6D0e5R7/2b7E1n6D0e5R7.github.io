@@ -160,7 +160,7 @@
 
 			htmlBar += '<div class="pjAcceptCookieBarShell">';
 			htmlBar += '<form action="#" method="post">';
-			htmlBar += '<p>Продолжая просмотр сайта, вы соглашаетесь с использованием файлов cookie в соответствии с «политикой cookie»</p>';
+			htmlBar += '<p>Продолжая просмотр сайта, вы соглашаетесь с использованием файлов cookies.<br><span>Что такое cookies?</span> | <span>Политика cookies</span> </p>';
 			htmlBar += '<div class="pjAcceptCookieBarActions">';
 			htmlBar += '<button type="button" class="pjAcceptCookieBarBtn">Понятно</button>';
 			htmlBar += '</div>';
