@@ -162,7 +162,7 @@
 			htmlBar += '<form action="#" method="post">';
 			htmlBar += '<p>Мы используем файлы cookie, чтобы обеспечить вам лучший опыт работы на нашем веб-сайте. <br /> Закрывая это сообщение, вы соглашаетесь на наши файлы cookie на этом устройстве в соответствии с нашей политикой cookie, если вы не отключили их</p>';
 			htmlBar += '<div class="pjAcceptCookieBarActions">';
-			htmlBar += '<button type="button" class="pjAcceptCookieBarBtn">Принимаю</button>';
+			htmlBar += '<button type="button" class="pjAcceptCookieBarBtn">Понятно</button>';
 			htmlBar += '</div>';
 			htmlBar += '</form>';
 			htmlBar += '</div>';
