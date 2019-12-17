@@ -599,6 +599,12 @@ color: white;
    animation-iteration-count: 1;
 }
 
+.fa-cog:hover {
+  -webkit-transform: rotateZ(60deg);
+  -ms-transform: rotateZ(60deg);
+  transform: rotateZ(60deg);
+}
+
 .title-post {
   margin:0 2px 2px 0;
   font: 2.4em/1 Georgia;
