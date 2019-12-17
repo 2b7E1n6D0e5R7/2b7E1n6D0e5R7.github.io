@@ -125,7 +125,7 @@
 			var cssCode = "";
 			cssCode += "#pjAcceptCookieBar .pjAcceptCookieBarBtn,";
 			cssCode += "#pjAcceptCookieBar .pjAcceptCookieBarBtn:after { -webkit-transition: all .5s ease-in-out; -moz-transition: all .5s ease-in-out; -ms-transition: all .5s ease-in-out; -o-transition: all .5s ease-in-out; transition: all .5s ease-in-out; }";
-			cssCode += "#pjAcceptCookieBar { position: fixed; bottom: 0; left: 0; z-index: 9999; overflow-x: hidden; overflow-y: auto; width: 100%; max-height: 100%; padding: 30px 0; background: #404040; font-family: 'Open Sans', sans-serif; text-align: center; }";
+			cssCode += "#pjAcceptCookieBar { position: fixed; bottom: 0; left: 0; z-index: 9999; overflow-x: hidden; overflow-y: auto; width: 100%; max-height: 100%; padding: 15px 0; background: #404040; font-family: 'Open Sans', sans-serif; text-align: center; }";
 			cssCode += "#pjAcceptCookieBar * { padding: 0; margin: 0; outline: 0; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }";
 			cssCode += "#pjAcceptCookieBar .pjAcceptCookieBarShell { width: 90%; margin: 0 auto; }";
 			cssCode += "#pjAcceptCookieBar a[href^=tel] { color: inherit; }";
@@ -140,7 +140,7 @@
 			cssCode += "#pjAcceptCookieBar .pjAcceptCookieBarBtn:hover:after,";
 			cssCode += "#pjAcceptCookieBar .pjAcceptCookieBarBtn:focus:after { right: 0; left: 0; }";
 			cssCode += "@media only screen and (max-width: 767px) {";
-			cssCode += "#pjAcceptCookieBar { padding: 15px 0; }";
+			cssCode += "#pjAcceptCookieBar { padding: 10px 0; }";
 			cssCode += "#pjAcceptCookieBar .pjAcceptCookieBarShell { width: 96%; }";
 			cssCode += "#pjAcceptCookieBar p { font-size: 12px; }";
 			cssCode += "}";
