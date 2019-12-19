@@ -3,8 +3,7 @@ layout: default
 title: PGP
 permalink: /pgp/
 ---
-<a href="/сontact" class="glo_a">Вернуться назад</a>
-
+<a href="/сontact" class="glo_a">< Вернуться назад</a>
 # Наш PGP-ключ:
 
 ```html
@@ -119,7 +118,5 @@ udp8hA1kZUNFgON0CXNnwdaWgB1Y5v5DVZGzldcONYmdqenGn55m0rIf8klP9lHB
 <br>
 </p>
 <button class="glo" id="copy">Копировать адрес</button>
-
-
 
 Если вы не знаете, как шифровать сообщение таким ключом - читайте нашу [статью](/what-is-gpg-pgp-encryption)!
