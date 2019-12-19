@@ -3,7 +3,10 @@ layout: default
 title: PGP
 permalink: /pgp/
 ---
-<a href="/сontact" class="glo_a">< Вернуться назад</a>
+
+  <a href="/сontact/"><i class="icon fa fa-long-arrow-left"></i>назад</a>
+
+<a href="/сontact/" class="glo_a">< Вернуться назад</a>
 # Наш PGP-ключ:
 
 ```html
