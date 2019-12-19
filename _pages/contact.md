@@ -3,6 +3,11 @@ layout: default
 title: Контакты
 permalink: /contact/
 ---
+<i class="fa fa-telegram fa-3x" aria-hidden="true"></i>
+<i class="fa fa-instagram fa-3x" aria-hidden="true"></i>
+<i class="fa fa-twitter fa-3x" aria-hidden="true"></i>
+<i class="fa fa-youtube fa-3x" aria-hidden="true"></i>
+
 ```
 # Решили с нами связаться?
 ```
