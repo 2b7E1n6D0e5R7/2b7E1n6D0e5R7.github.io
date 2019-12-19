@@ -4,7 +4,7 @@ title: PGP
 permalink: /pgp/
 ---
 
-<a href="https://paranoids.info/сontact/"><i class="icon fa fa-long-arrow-left"></i> назад</a>
+<a href="/contact/"><i class="icon fa fa-long-arrow-left"></i> назад</a>
 
 # Наш PGP-ключ:
 
