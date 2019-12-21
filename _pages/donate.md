@@ -3,7 +3,7 @@ layout: default
 title: Поддержать
 permalink: /donate/
 ---
-<p>#Поддержите проект</p>
+<p><b>#Поддержите проект</b></p>
 
 ### Bitcoin:
 
