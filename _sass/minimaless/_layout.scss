@@ -30,6 +30,11 @@ text-decoration: underline;
 transition: 0.3s;
 }
 
+a.link_cookie:visited {
+color: white;
+text-decoration: underline;
+}
+
 .h-title {
   margin-top: -15px;
   z-index: 100;
