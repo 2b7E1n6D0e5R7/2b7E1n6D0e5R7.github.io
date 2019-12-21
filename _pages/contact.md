@@ -3,7 +3,6 @@ layout: default
 title: Контакты
 permalink: /contact/
 ---
-<i class="fa fa-telegram fa-2x" aria-hidden="true"></i>
 ```
 # Решили с нами связаться?
 ```
