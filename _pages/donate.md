@@ -6,7 +6,7 @@ permalink: /donate/
 <p><b>#Поддержите проект</b></p>
 
 ### Bitcoin:
-[![Bitcoin QR-code](/images/donate/qr-codes/scan_btc.png "BTC QR-code")]({{site.baseurl}}/images/donate/qr-codes/btc.png "BTC QR-code"){:target="_blank"}{:class="zoom-in qr-code"}
+[![Bitcoin QR-code](/images/donate/qr-codes/scan_btc.png "BTC QR-code"){:class="qr-code"}]({{site.baseurl}}/images/donate/qr-codes/btc.png "BTC QR-code"){:target="_blank"}{:class="zoom-in qr-code"}
 
 ```html
 348dcb6f-3a73-48a8-86dc-4383b1b08942
