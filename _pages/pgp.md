@@ -4,7 +4,7 @@ title: PGP
 permalink: /pgp/
 ---
 
-<a href="/contact/" class="link_page"><i class="icon fa fa-long-arrow-left"></i> назад</a>
+<a href="/contact/" class="link_page-no"><i class="icon fa fa-long-arrow-left"></i> назад</a>
 
 # Наш PGP-ключ:
 
@@ -122,4 +122,4 @@ udp8hA1kZUNFgON0CXNnwdaWgB1Y5v5DVZGzldcONYmdqenGn55m0rIf8klP9lHB
 <button class="glo" id="copy">Копировать адрес</button>
 <a href="/downloads/A1B71C8F8C8C7012A1D3F7581198A3D5C76B6E2B.asc" class="glo_a">Скачать</a>
 
-Если вы не знаете, как шифровать сообщение таким ключом - читайте нашу [статью](/what-is-gpg-pgp-encryption){:class="link_page"}.
+Если вы не знаете, как шифровать сообщение таким ключом - читайте нашу [статью](/what-is-gpg-pgp-encryption "Что такое PGP/GPG-шифрование?"){:class="link_page"}{:target="_blank"}.
