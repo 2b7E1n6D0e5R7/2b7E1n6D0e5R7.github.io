@@ -7,10 +7,10 @@ color: white;
 text-decoration: underline;
 }
 
-.link_cookie:hover {
-color: white;
+a.link_cookie:hover {
+color: #0feacc;
 text-decoration: underline;
-font-size:20px;
+transition: 0.3s;
 }
 
 .h-title {
