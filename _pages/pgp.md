@@ -122,4 +122,4 @@ udp8hA1kZUNFgON0CXNnwdaWgB1Y5v5DVZGzldcONYmdqenGn55m0rIf8klP9lHB
 <button class="glo" id="copy">Копировать адрес</button>
 <a href="/downloads/A1B71C8F8C8C7012A1D3F7581198A3D5C76B6E2B.asc" class="glo_a">Скачать</a>
 
-Если вы не знаете, как шифровать сообщение таким ключом - читайте нашу [статью](/what-is-gpg-pgp-encryption "Что такое PGP/GPG-шифрование?"){:class="link_page"}{:target="_blank"}.
+Если вы не знаете, как шифровать сообщение таким ключом - читайте нашу [статью <i class="fa fa-external-link"></i>](/what-is-gpg-pgp-encryption "Что такое PGP/GPG-шифрование?"){:class="link_page"}{:target="_blank"}.
