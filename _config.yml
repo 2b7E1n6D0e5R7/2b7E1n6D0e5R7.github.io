@@ -42,7 +42,7 @@ paginate_path: "/page:num/"
 # this and add the path to the pages in order as they should show up
 header_pages:
   - _pages/blog.md
-  - _pages/about.md
+  - _pages/community.md
   - _pages/contact.md
   - _pages/services.md
 #  - _pages/donate.md
