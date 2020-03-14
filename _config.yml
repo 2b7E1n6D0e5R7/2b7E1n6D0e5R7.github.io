@@ -15,9 +15,9 @@ url: "http://paranoids.info/" # the base hostname & protocol for your site, e.g.
 telegram_username: paranoids_info
 # vk_username: paranoidsinfo
 # linkedin_username: paranoidsinfo
-twitter_username: paranoidsinfo
+# twitter_username: paranoidsinfo
 # facebook_username: paranoidsinfo
-instagram_username: paranoids.info
+# instagram_username: paranoids.info
 # paypal_username: paranoidsinfo
 youtube_username: paranoidsinfo
 
@@ -67,9 +67,9 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
+#  - assets/js/plugins
+#  - assets/js/_main.js
+#  - assets/js/vendor
   - Capfile
   - CHANGELOG
   - config
