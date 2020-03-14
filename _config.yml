@@ -34,7 +34,7 @@ minimaless:
   date_format: "%Y-%m-%d %H:%M"
   
 preview_posts: true
-permalink: /:title
+permalink: /blog/:title
 paginate: 5 # increase this value to reflect how many posts per page you want
 paginate_path: "/page:num/"
 
