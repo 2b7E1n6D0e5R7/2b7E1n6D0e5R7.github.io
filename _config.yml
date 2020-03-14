@@ -8,7 +8,7 @@ description: >
   построение телекоммуникационных сетей и их оптимизация, анонимизация в сети интернет и реальной жизни.
   Помимо этого проект является идеологическим родителем целого сообщества людей,  не равнодушных к тайне своей личной жизни.
 
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://paranoids.info/" # the base hostname & protocol for your site, e.g. http://example.com
 #google_analytics: UA-NNNNNNNN-N
 
