@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+
+  <body>
+
+    <main class="landing-content" aria-label="Content">
+      <div class="wrapper">
+
+        <img src="/images/pyr_logo.gif">
+         <h1 class="title">about@paranoids:~$ 
+          <span class="typewrite" data-period="2000" data-type='[ "******"]'>
+          <span class="wrap"></span>
+          </span>
+        </h1>
+        
+        <hr>
+
+        
+        <div class="about">
+          
+          {{ content }}
+
+        </div>
+      </div>
+    </main>
