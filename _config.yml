@@ -9,7 +9,7 @@ description: >
   Помимо этого проект является идеологическим родителем целого сообщества людей,  не равнодушных к тайне своей личной жизни.
 
 baseurl: "/"
-url: "https://paranoids.info/"
+url: "https://paranoids.info"
 
 telegram_username: paranoids_info
 youtube_username: paranoidsinfo
