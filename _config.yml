@@ -8,45 +8,29 @@ description: >
   построение телекоммуникационных сетей и их оптимизация, анонимизация в сети интернет и реальной жизни.
   Помимо этого проект является идеологическим родителем целого сообщества людей,  не равнодушных к тайне своей личной жизни.
 
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://paranoids.info/" # the base hostname & protocol for your site, e.g. http://example.com
-#google_analytics: UA-NNNNNNNN-N
+baseurl: "/"
+url: "https://paranoids.info/"
 
 telegram_username: paranoids_info
-# vk_username: paranoidsinfo
-# linkedin_username: paranoidsinfo
-# twitter_username: paranoidsinfo
-# facebook_username: paranoidsinfo
-# instagram_username: paranoids.info
-# paypal_username: paranoidsinfo
 youtube_username: paranoidsinfo
-
 
 collections:
   - setup
 
-# disqus:
-#   shortname:
-
-# Minimaless date format
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this %b %-d, %Y
 minimaless:
   date_format: "%Y-%m-%d %H:%M"
   
 preview_posts: true
-permalink: /blog/:title
-paginate: 5 # increase this value to reflect how many posts per page you want
-paginate_path: "/blog/page:num/"
+permalink: /:title
+paginate: 5
+paginate_path: "/page:num/"
 
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
 header_pages:
   - _pages/blog.md
   - _pages/community.md
   - _pages/contact.md
   - _pages/services.md
-#  - _pages/donate.md
-
+  
 plugins:
   - jekyll-feed
   - jekyll-gist
@@ -57,7 +41,6 @@ plugins:
 
 markdown: kramdown
 theme: minimaless
-remote_theme: 2b7E1n6D0e5R7/2b7E1n6D0e5R7.github.io # uncomment to allow GitHub to build for GitHub Pages - https://github.com/blog/2464-use-any-theme-with-github-pages
 
 include:
   - _pages
@@ -67,9 +50,6 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-#  - assets/js/plugins
-#  - assets/js/_main.js
-#  - assets/js/vendor
   - Capfile
   - CHANGELOG
   - config
