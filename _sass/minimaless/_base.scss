@@ -56,7 +56,8 @@ h1 {
 }
 
 h2:first-child {
-  margin-top: $spacing-unit * 0.01;
+  margin-top: $spacing-unit * -0.25;
+  margin-bottom: $spacing-unit * 0.6;
 }
 
 h2 {
