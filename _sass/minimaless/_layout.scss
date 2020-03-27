@@ -714,7 +714,8 @@ color: white;
   @include relative-font-size(.8);
   color: $text-color;
   background-color: $grey-color-light;
-  font-weight: normal;
+  font-family: $font-type-family;
+  font-weight: 600;
   padding: 2px 5px;
   &:hover {
     color: $grey-color-light;
