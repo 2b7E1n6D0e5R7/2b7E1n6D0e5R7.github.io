@@ -1,7 +1,7 @@
 <section class="related">
   <h1 class="post_rel-title">Вам также может быть интересно:</h1>
   <ul class="post-list">
-    {% for post in site.related_posts limit:3 %}
+    {% for post in site.related_posts limit:5 %}
       <li>
         <h2 class ="post-rel">
           <a href="{{ post.url | relative_url }}">
