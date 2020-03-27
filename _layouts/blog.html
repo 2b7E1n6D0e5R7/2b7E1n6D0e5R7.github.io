@@ -12,7 +12,7 @@ layout: default
         <span class="post-meta">{{ post.date | date: date_format }}</span>
 
         <h2>                     
-          <a class="post-link" href="{{site.baseurl}}/{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
         {% if site.preview_posts %}
         <p>
@@ -26,7 +26,7 @@ layout: default
   {% if paginator.total_pages != 1 %}
     <div class="pagination">
       {% if paginator.previous_page %}
-        <a href="{{site.baseurl}}/{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="previous">
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="previous">
           <div><i class="fa fa-caret-left"></i></div>
         </a>
       {% else %}
@@ -36,7 +36,7 @@ layout: default
       {% endif %}
       <span class="page-number ">{{ paginator.page }} / {{ paginator.total_pages }}</span>
       {% if paginator.next_page %}
-        <a href="{{site.baseurl}}/{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="next">
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="next">
           <div><i class="fa fa-caret-right"></i></div>
         </a>
       {% else %}
