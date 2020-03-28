@@ -16,6 +16,10 @@ a svg:hover #telegram {
   fill: #b31313;
 }
 
+svg #mastodon {
+position:absolute;
+margin:1px;}
+
 a svg #mastodon,
 a svg #video,
 a svg #rss,
@@ -28,7 +32,6 @@ a svg #telegram {
 }
 
 .blog-menu_text {
-    position: absolute;
     margin: -1px 0px 0px 11px;
 }
 
