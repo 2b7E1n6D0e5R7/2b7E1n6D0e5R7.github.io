@@ -25,7 +25,9 @@
   {% endif %}
 
   {% if site.mastodon_username %}
-  <img src=”assets/svg/mastodon.svg?p=white,$00ff00,,green”>
+   <a href="https://mastodon.com/{{ site.mastodon_username }}" target="_blank">
+  <img src="assets/svg/mastodon.svg">
+   </a>
   {% endif %}
 
   {% if site.instagram_username %}
