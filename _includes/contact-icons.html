@@ -26,7 +26,12 @@
 
   {% if site.mastodon_username %}
   <li>
-    <a href="https://mastodon.social/{{ site.mastodon_username }}" target="_blank"><i class="icon fa fa-mastodon"></i></a>
+    <a href="https://mastodon.social/{{ site.mastodon_username }}" target="_blank">
+    
+      <object type="image/svg+xml" data="/assets/mastodon.svg" id="svg">
+        </object>
+    
+    </a>
   </li>
   {% endif %}
 
