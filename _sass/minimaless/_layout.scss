@@ -2,6 +2,12 @@
  * Site header
  */
 
+a svg:hover #video {
+  fill: ##a70505;
+  width: 30px;
+  height: 30px;  
+}
+
 a svg:hover #mastodon,
 a svg:hover #rss,
 a svg:hover #youtube,
@@ -10,6 +16,7 @@ a svg:hover #telegram {
 }
 
 a svg #mastodon,
+a svg #video,
 a svg #rss,
 a svg #youtube,
 a svg #telegram { 
@@ -19,7 +26,12 @@ a svg #telegram {
   -webkit-transition-timing-function: ease-in-out;
 }
 
-link_page-no {
+.blog-menu_text {
+    position: absolute;
+    margin: -1px 0px 0px 11px;
+}
+
+.link_page-no {
 color: black;
 }
 
