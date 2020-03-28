@@ -1,6 +1,6 @@
 ---
 layout: blog
 title: Блог
-permalink: /blog/
+redirect_to: https://paranoids.info
 ---
 
