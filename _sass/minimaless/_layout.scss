@@ -3,7 +3,9 @@
  */
       
 
-.blog-menu_link:hover a svg #video{fill: #a70505; transform: rotate(-15deg);}
+.blog-menu_link:hover a svg #video{fill: #a70505;}
+.blog-menu_link:hover .blog-menu_icon{transform: rotate(-15deg);}
+
 
 a svg:hover #mastodon,
 a svg:hover #rss,
