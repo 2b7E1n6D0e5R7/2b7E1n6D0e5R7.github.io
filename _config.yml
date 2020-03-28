@@ -4,6 +4,7 @@ url: "https://paranoids.info"
 telegram_username: paranoids_info
 youtube_username: channel/UCPMus_VPfNJsNRwkrE3ySSA
 mastodon_username: paranoids
+email: root@paranoids.info
 
 collections:
   - setup
