@@ -25,14 +25,14 @@
   {% endif %}
 
   {% if site.mastodon_username %}
-  <li>
-    <a href="https://mastodon.social/{{ site.mastodon_username }}" target="_blank">
-    
-      <object type="image/svg+xml" data="/assets/svg/mastodon.svg" id="svg">
+   <div class="box">
+    <div class="icon">
+          <a href="https://mastodon.social/{{ site.mastodon_username }}" target="_blank">
+        <object type="image/svg+xml" data="assets/svg/mastodon.svg" id="svg">
+              </a>
         </object>
-    
-    </a>
-  </li>
+    </div>
+  </div>
   {% endif %}
 
   {% if site.instagram_username %}
