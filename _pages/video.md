@@ -6,6 +6,10 @@ permalink: /video/
 
 ## Видео-архив
 
+<video width="400" height="300" controls="controls" poster="images/encryption.png">
+   <source src="Wildlife.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
+  </video>
+
 <iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://www.open.tube/videos/embed/4dd5b5b5-ab3f-4066-bb11-0893e4ceefba" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://www.open.tube/videos/embed/0bd91867-7015-4e6f-8f2d-e60127bf7b95" frameborder="0" allowfullscreen></iframe>
