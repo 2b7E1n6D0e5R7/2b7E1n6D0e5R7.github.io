@@ -2,6 +2,23 @@
  * Site header
  */
 
+a svg:hover #mastodon,
+a svg:hover #rss,
+a svg:hover #youtube,
+a svg:hover #telegram { 
+  fill: #b31313;
+}
+
+a svg #mastodon,
+a svg #rss,
+a svg #youtube,
+a svg #telegram { 
+  transition: 200ms;
+  transition-timing-function: ease-in-out;
+  -webkit-transition: 200ms;
+  -webkit-transition-timing-function: ease-in-out;
+}
+
 link_page-no {
 color: black;
 }
