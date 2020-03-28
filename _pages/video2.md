@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Видео
-permalink: /video/
+permalink: /video2/
 ---
 
 ## Видео-архив
