@@ -18,7 +18,7 @@ paginate: 5
 paginate_path: "/page:num/"
 
 header_pages:
-  - _pages/blog.md
+  - _pages/main.md
   - _pages/community.md
   - _pages/contact.md
   - _pages/manifesto.md
