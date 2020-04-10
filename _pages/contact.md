@@ -9,7 +9,7 @@ permalink: /contact/
 ```
 root@paranoids.info
 ```
-<div id="code">root@paranoids.info</div>
+<div id="code">root@paranoids.info</div><b id="blink1">_</b>
 <p class="buttons">
 <br>
 </p>
