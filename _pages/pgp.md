@@ -1,7 +1,7 @@
 ---
 layout: about
 title: PGP
-permalink: /pgp/
+permalink: /contact/pgp/
 ---
 
 <a href="/contact/" class="link_page-no"><i class="icon fa fa-long-arrow-left"></i> назад</a>
